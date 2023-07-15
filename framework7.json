@@ -1,0 +1,17 @@
+{
+  "cwd": "C:\\Users\\marwan\\Desktop\\marwanz",
+  "type": [
+    "web"
+  ],
+  "name": "marwanz",
+  "framework": "core",
+  "template": "tabs",
+  "bundler": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
